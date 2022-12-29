@@ -5,7 +5,7 @@
 
 .banner-image {
     height: 60rem;
-    background-image: url(/images/banner.jpeg);
+    background-image: url(banner.jpeg);
     background-size: cover;
     opacity: 0.18;
     min-height: 20px;
