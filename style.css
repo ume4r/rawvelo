@@ -1,0 +1,50 @@
+* {
+    background-color: black;
+    margin: 0;
+}
+
+.banner-image {
+    height: 60rem;
+    background-image: url(/images/banner.jpeg);
+    background-size: cover;
+    opacity: 0.18;
+    min-height: 20px;
+}
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    height: 60rem;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+h1 {
+    font-size: 3rem;
+    
+}
+
+.texts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2rem;
+    padding-right: 29rem;
+}
+h2 {
+    font-size: 8rem;
+}
+h3 {
+    font-size: 5rem;
+    padding-left: 6rem;
+}
